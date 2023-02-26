@@ -2,9 +2,9 @@
 
 ## Required Homework / Tasks
 
-### Watched Live Streamed Video
+### Week 0 - Live Streamed Video
 
-This video provided the details related to the following topics:
+This **[video](https://www.youtube.com/watch?v=SG8blanhAOg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=12)** provided the details related to the following topics:
 
 1. Requirements were defined for startup called CRUDDR
     1. CRUDDR is an ephemeral first micro-blogging platform
@@ -38,6 +38,22 @@ This video provided the details related to the following topics:
           4. Performance Efficiency
           5. Cost Optimization
           6. Sustainability     
+
+### Chirag's Week 0 - Spend Considerations
+
+The following topics were covered in this **[video](https://www.youtube.com/watch?v=OVw3RrlP-sI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=13)**
+
+1. AWS Billing
+2. Configuring Billing Alerts
+3. Creating Cost Allocation Tags
+4. AWS Cost Explorer
+5. How to Apply Credits
+6. EC2 Pricing
+7. AWS Calculator
+8. AWS Free Tier
+
+### Ashish's Week 0 - Security Considerations
+
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
