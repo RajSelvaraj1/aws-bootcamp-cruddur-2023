@@ -54,6 +54,15 @@ The following topics were covered in this **[video](https://www.youtube.com/watc
 
 ### Ashish's Week 0 - Security Considerations
 
+Learnt the following security topics from this **[video](https://www.youtube.com/watch?v=4EMWBYVggQI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15)**:
+
+- What is Cloud Security and Cloud Security Goal in an Organization
+- How to Enable MFA in AWS IAM User and Root Account
+- AWS Organizations & how to create one
+- AWS Cloud Trail & Tutorials
+- AWS IAM User, AWS IAM Role and its walkthrough
+- AWS Organization SCP (Service Control Policy), Walkthrough and its best practices
+- Top 5 AWS Security Best Practices
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
