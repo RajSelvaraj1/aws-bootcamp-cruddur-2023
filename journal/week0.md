@@ -82,14 +82,14 @@ Here is the **[link](https://lucid.app/lucidchart/b9114b8d-722f-46d8-95a8-bab652
 
 ### Installed AWS CLI
 
-**Notes to complete**
+![Screenshot of the AWS CLI]
 
 ### Create a Billing Alarm
 
-**Notes to complete**
+![Screenshot of the created Billing Alarm]
 
 ### Create a Budget
 
-**Notes to complete**
+![Screenshot of the created AWS Budget]
 
 ## Homework Challenges
