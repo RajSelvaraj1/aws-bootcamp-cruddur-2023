@@ -101,3 +101,11 @@ Below is the screenshot of the 2 budgets that were created for
 ![Screenshot of the created AWS Budget](assets/Week0-AWS%20Budget.png)
 
 ## Homework Challenges
+
+### Setup MFA, Assign IAM Roles
+
+I was able to set MFA for both root and user accounts and assign an IAM role to the user account
+
+
+
+
