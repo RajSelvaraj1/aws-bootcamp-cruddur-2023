@@ -82,13 +82,21 @@ Here is the **[link](https://lucid.app/lucidchart/b9114b8d-722f-46d8-95a8-bab652
 
 ### Installed AWS CLI
 
+I was able to install AWS CLI successfully
+
 ![Screenshot of the AWS CLI](assets/Week0-AWS_CLI.png)
 
 ### Create a Billing Alarm
 
+I was able to create billing alarm
+
 ![Screenshot of the created Billing Alarm](assets/Week0-AWS%20Billing%20Alarm.png)
 
 ### Create a Budget
+
+Below is the screenshot of the 2 budgets that were created for 
+1. Monthly Budget
+2. Budget to track the credit spend 
 
 ![Screenshot of the created AWS Budget](assets/Week0-AWS%20Budget.png)
 
