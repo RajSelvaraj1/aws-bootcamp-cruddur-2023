@@ -106,6 +106,9 @@ Below is the screenshot of the 2 budgets that were created for
 
 I was able to set MFA for both root and user accounts and assign an IAM role to the user account
 
+**Add Screenshots For MFA setup**
+**IAM role to user account**
+
 
 
 
