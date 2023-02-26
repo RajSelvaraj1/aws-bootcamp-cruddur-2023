@@ -2,6 +2,43 @@
 
 ## Required Homework / Tasks
 
+### Watched Live Streamed Video
+
+This video provided the details related to the following topics:
+
+1. Requirements were defined for startup called CRUDDR
+    1. CRUDDR is an ephemeral first micro-blogging platform
+    2. This means that the posts on the CRUDDR micro blogging platform will expire which implies that users will not be tracked on a long term
+2. App Tech
+     1. Cloud Technology: AWS
+     2. Microservices: AWS Lambda
+     3. Front End: JavaScript and React
+     4. Back End: Python and Flask
+     5. Database: NoSQL
+3. Project Management's Iron Triangle
+      - Scope + Cost + Time + Quality
+      - Cheap, Fast and Good
+4. What comprises a Good Architecture
+      1. Meets the requirements
+      2. Address the risks, assumptions and constraints
+5. After gathering Requirements, Risks, Assumptions and Constraints, we create the design
+      1. Conceptual Design (Napkin Design)
+      2. Logical Design 
+      3. Physical Design
+6. Develop a Common Dictionary
+      - Ask "Dumb" Questions
+      - Play be-the-packet
+      - Document Everything
+7. Architecture Framework (TOGAF)
+8. AWS's Well Architected Framework Tool and how to use it
+      - 6 Pillars of Well Architected Framework Tool are:
+          1. Operational Excellance
+          2. Security
+          3. Reliability
+          4. Performance Efficiency
+          5. Cost Optimization
+          6. Sustainability     
+
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
 I was able to recreate the Conceptual diagram in Lucid Charts.
