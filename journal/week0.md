@@ -70,6 +70,8 @@ I was able to recreate the Conceptual diagram in Lucid Charts.
 
 Here is the **[link](https://lucid.app/lucidchart/b9114b8d-722f-46d8-95a8-bab65283e72e/edit?viewport_loc=-497%2C-1089%2C2219%2C1097%2C0_0&invitationId=inv_31a98571-6837-4f21-9a8f-7877fa2b440c)** for reference
 
+![Here is a screenshot of the Napkin Design](assets/Week0-Napkin_Design.png)
+
 ![Here is a screenshot of the Conceptual Diagram](assets/Week0-Cruddur-Conceptual_Diagram.png)
 
 ### Recreate Logical Architectual Diagram in Lucid Charts
@@ -109,7 +111,3 @@ I was able to set MFA for both root and user accounts and assigned an IAM role t
 ![Screenshot of the MFA Setup for Root Account](assets/Week0-MFA_root%20account.png)
 
 ![Screenshot of the MFA Setup for User Account](assets/Week0-MFA_User%20account.png)
-
-
-
-
