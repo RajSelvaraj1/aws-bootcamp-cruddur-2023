@@ -104,10 +104,11 @@ Below is the screenshot of the 2 budgets that were created for
 
 ### Setup MFA, Assign IAM Roles
 
-I was able to set MFA for both root and user accounts and assign an IAM role to the user account
+I was able to set MFA for both root and user accounts and assigned an IAM role to the user account
 
-**Add Screenshots For MFA setup**
-**IAM role to user account**
+![Screenshot of the MFA Setup for Root Account](assets/Week0-MFA_root%20account.png)
+
+![Screenshot of the MFA Setup for User Account](assets/Week0-MFA_User%20account.png)
 
 
 
